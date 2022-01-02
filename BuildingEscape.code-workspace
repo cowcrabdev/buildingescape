@@ -6,16 +6,17 @@
 		},
 		{
 			"name": "UE4",
-			"path": "C:\\UE_4.27"
+			"path": "C:\\Program Files\\Epic Games\\UE_4.27"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
 		"C_Cpp.default.forcedInclude": [
 			"${default}",
-			"C:\\Unreal Projects\\BuildingEscape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\BuildingEscape\\Definitions.BuildingEscape.h",
-			"C:\\Unreal Projects\\BuildingEscape\\Intermediate\\Build\\Win64\\BuildingEscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
-		]
+			"C:\\Users\\TA\\Documents\\GitHub\\buildingescape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\BuildingEscape\\Definitions.BuildingEscape.h",
+			"C:\\Users\\TA\\Documents\\GitHub\\buildingescape\\Intermediate\\Build\\Win64\\BuildingEscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		],
+		"UEIntellisenseFixes.cppStandard": "c++17"
 	},
 	"extensions": {
 		"recommendations": [
