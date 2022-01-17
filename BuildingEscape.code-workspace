@@ -6,22 +6,18 @@
 		},
 		{
 			"name": "UE4",
-			"path": "C:\\Program Files\\Epic Games\\UE_4.27"
+			"path": "/Users/Shared/Epic Games/UE_4.27"
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off",
-		"C_Cpp.default.forcedInclude": [
-			"${default}",
-			"C:\\Users\\TA\\Documents\\GitHub\\buildingescape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\BuildingEscape\\Definitions.BuildingEscape.h",
-			"C:\\Users\\TA\\Documents\\GitHub\\buildingescape\\Intermediate\\Build\\Win64\\BuildingEscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
-		],
-		"UEIntellisenseFixes.cppStandard": "c++17"
+		"typescript.tsc.autoDetect": "off"
 	},
 	"extensions": {
 		"recommendations": [
 			"ms-vscode.cpptools",
-			"ms-dotnettools.csharp"
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
 		]
 	}
 }
